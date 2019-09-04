@@ -9,3 +9,7 @@ pom.xml.asc
 /.nrepl-port
 .hgignore
 .hg/
+
+/**/*.clj.meta
+/**/*.cljc.meta
+/**/*.cljs.meta
